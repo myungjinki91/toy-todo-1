@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/toy-todo-1/static/js/main.7ec70537.js",
+    "main.js": "/toy-todo-1/static/js/main.fbc3c939.js",
     "index.html": "/toy-todo-1/index.html",
-    "main.7ec70537.js.map": "/toy-todo-1/static/js/main.7ec70537.js.map"
+    "main.fbc3c939.js.map": "/toy-todo-1/static/js/main.fbc3c939.js.map"
   },
   "entrypoints": [
-    "static/js/main.7ec70537.js"
+    "static/js/main.fbc3c939.js"
   ]
 }
